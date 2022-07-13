@@ -11,13 +11,20 @@ body {
   margin-top: 0px;
 }
 
-h1 {
-  margin-top: 0;
-}
-
 h1, h2, h3, h4 {
   font-family: 'Ubuntu', 'nasin-nanpa', sans-serif;
   font-weight: 300;
+  border-bottom: 1px solid grey;
+  margin-bottom: 5px;
+}
+
+h1 {
+  margin-top: 0;
+  border-bottom: none;
+}
+
+p {
+  margin-top: 0px;
 }
 
 code {
