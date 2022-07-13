@@ -1,0 +1,1 @@
+import{_ as e,o as n,m as o,n as _,k as s,s as a,v as c}from"./entry-b92b0dd8.mjs";const r={},l=c("i don't think that's a real thing, try something else?");function i(m,d){const t=a;return n(),o("main",null,[_(t,null,{"not-found":s(()=>[l]),_:1})])}var f=e(r,[["render",i]]);export{f as default};
