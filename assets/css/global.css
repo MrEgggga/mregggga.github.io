@@ -5,6 +5,20 @@
   src: url('/fonts/nasin-nanpa-2.5.1.otf');
 }
 
+a {
+  text-decoration: none;
+  color: rgb(64, 64, 64);
+  letter-spacing: 1px;
+}
+
+a:hover {
+  font-style: italic;
+}
+
+a:visited {
+  color: grey;
+}
+
 body {
   font-family: 'Ubuntu', 'nasin-nanpa', sans-serif;
   font-weight: 300;

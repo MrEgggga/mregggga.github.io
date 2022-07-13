@@ -24,6 +24,7 @@ export default {
     <div id="page">
       <NuxtPage />
     </div>
+    <Footer />
   </div>
 </template>
 

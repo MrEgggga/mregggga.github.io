@@ -26,6 +26,10 @@
     color: black;
   }
 
+  a:visited {
+    color: black !important;
+  }
+
   a:hover {
     color: rgb(64, 64, 64);
   }
